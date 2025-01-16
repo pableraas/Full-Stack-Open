@@ -10,3 +10,4 @@ This will be my repository to submit my exercises related to the [full-stack-ope
 
 - ## Part 1 - Introduction to react
 - [Exercise 1](https://github.com/pableraas/Full-Stack-Open/tree/1902c7c0d469e1a600160f2ba96825047b857ae1/part1/src/App.jsx)
+- [Exercise 1](https://github.com/pableraas/Full-Stack-Open/tree/9d22d86095ff3c93db6836f7adb4b793387e9963/part1/src/App.jsx)
